@@ -1,0 +1,7 @@
+{
+  "name": "disksbyy",  // 必须和你的 Pages 项目名完全一致！
+  "compatibility_date": "2026-01-17",  // 当前日期或未来日期都可以
+  "assets": {
+    "directory": "./dist"  // 你的构建输出文件夹，通常是 dist
+  }
+}
